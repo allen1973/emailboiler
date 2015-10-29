@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<!-- header table -->
+<table width="560" border="0" cellpadding="0" cellspacing="0" align="center" class="float-left">
+  <tr>
+    <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:18px; color:#666666;" class="paragraph">
+      Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:1px; height:15px" height="15px">&nbsp;</td>
+  </tr>
+</table>
+<!-- // header table -->
+]]></content>
+	
+	<tabTrigger>fullwidth</tabTrigger> 
+	<scope>text.html</scope>
+</snippet>
